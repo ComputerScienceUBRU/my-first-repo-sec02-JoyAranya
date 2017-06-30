@@ -1,5 +1,5 @@
 # อาหารที่ชอบ
-ผัดผัก
+ผัดผัก, Sizzler, piaza, MK
 # Student ID
 57122420316
 # Name
